@@ -13,6 +13,7 @@ public class Application {
               int j = 20;
 
 		      String name = "ankitit";
+                int k = 30;
               
 
 	}
